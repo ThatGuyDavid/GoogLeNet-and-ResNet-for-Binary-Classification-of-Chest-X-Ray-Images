@@ -8,7 +8,7 @@ This project focuses on building a **binary classification model** to detect pne
 The objective is to develop and compare two deep learning models, **GoogLeNet** and **ResNet**, to classify X-ray images into these two categories. This project involves:
 - Preprocessing and splitting the data.
 - Training and fine-tuning the models.
-- Evaluating and comparing performance using metrics like **accuracy**, **precision**, **recall**, and **AUC-ROC**.
+- Evaluating and comparing performance using metrics like **accuracy**, **precision**.
 - Visualizing results with confusion matrices and ROC curves.
 
 ## **Dataset**
